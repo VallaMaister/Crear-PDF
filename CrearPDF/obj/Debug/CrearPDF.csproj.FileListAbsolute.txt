@@ -1,0 +1,10 @@
+C:\Users\Sistemas\source\repos\CrearPDF\CrearPDF\bin\Debug\CrearPDF.exe.config
+C:\Users\Sistemas\source\repos\CrearPDF\CrearPDF\bin\Debug\CrearPDF.exe
+C:\Users\Sistemas\source\repos\CrearPDF\CrearPDF\bin\Debug\CrearPDF.pdb
+C:\Users\Sistemas\source\repos\CrearPDF\CrearPDF\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas\source\repos\CrearPDF\CrearPDF\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas\source\repos\CrearPDF\CrearPDF\obj\Debug\CrearPDF.csprojAssemblyReference.cache
+C:\Users\Sistemas\source\repos\CrearPDF\CrearPDF\obj\Debug\CrearPDF.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\source\repos\CrearPDF\CrearPDF\obj\Debug\CrearPDF.csproj.CopyComplete
+C:\Users\Sistemas\source\repos\CrearPDF\CrearPDF\obj\Debug\CrearPDF.exe
+C:\Users\Sistemas\source\repos\CrearPDF\CrearPDF\obj\Debug\CrearPDF.pdb
